@@ -8,17 +8,10 @@ avatarTitle: langhuanyu
 avatarDesc: PHP
 url: "https://langhuanyu.github.io"
 
-# Comment
-comment:
-    disqus: leopard
-    # uyan: 2143225  # 有言id,登录有言官网申请
-
 # Social
 social:
-    weibo: 5366874726 
-    github: leopardpan
-    # twitter: 
-    mail: leopardpan@icloud.com
+    github: langhuanyu
+    mail: langhuanyu123@126.com
 
 permalink: /:year/:month/:title/
 # Format
