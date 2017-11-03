@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Redis+Keepalive
-date: 2017-11-1 
+date: 2017-11-03 
 tag: [Linux,Redis,Keepalive]
 ---
 
